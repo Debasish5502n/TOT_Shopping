@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Fregment.ProductDescriptionFragment">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:id="@+id/tv_product_description"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_margin="16dp"
+            android:text="Note: Please contact me before placing the order.
+
+If you are looking for the best android application Design and Development services around here, I must tell you that you are at the best place now. Just press the contact button and Let's proceed.
+
+
+
+I'm here as a professional Android app developer having 4 years of development experience using android studio.
+
+
+
+I am committed to delivering excellence within a given time frame and will provide you Attractive, Responsive, and fast mobile applications for your custom requirements. Note: Please contact me before placing the order.
+
+If you are looking for the best android application Design and Development services around here, I must tell you that you are at the best place now. Just press the contact button and Let's proceed.
+
+
+
+I'm here as a professional Android app developer having 4 years of development experience using android studio.
+
+
+
+I am committed to delivering excellence within a given time frame and will provide you Attractive, Responsive, and fast mobile applications for your custom requirements. Note: Please contact me before placing the order.
+
+If you are looking for the best android application Design and Development services around here, I must tell you that you are at the best place now. Just press the contact button and Let's proceed.
+
+
+
+I'm here as a professional Android app developer having 4 years of development experience using android studio.
+
+
+
+I am committed to delivering excellence within a given time frame and will provide you Attractive, Responsive, and fast mobile applications for your custom requirements. Note: Please contact me before placing the order.
+
+If you are looking for the best android application Design and Development services around here, I must tell you that you are at the best place now. Just press the contact button and Let's proceed.
+
+
+
+I'm here as a professional Android app developer having 4 years of development experience using android studio.
+
+
+
+I am committed to delivering excellence within a given time frame and will provide you Attractive, Responsive, and fast mobile applications for your custom requirements. Note: Please contact me before placing the order.
+
+If you are looking for the best android application Design and Development services around here, I must tell you that you are at the best place now. Just press the contact button and Let's proceed.
+
+
+
+I'm here as a professional Android app developer having 4 years of development experience using android studio.
+
+
+
+I am committed to delivering excellence within a given time frame and will provide you Attractive, Responsive, and fast mobile applications for your custom requirements. "
+            android:textColor="@color/black"
+            android:textSize="16sp"
+            android:textStyle="normal" />
+    </ScrollView>
+</FrameLayout>

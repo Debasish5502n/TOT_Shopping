@@ -1,0 +1,103 @@
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Androidstudio(3)/BBKart/app/src/main/res/drawable/add.xml" value="0.20854700854700856" />
+        <entry key="..\:/Androidstudio(3)/BBKart/app/src/main/res/drawable/badge_background.xml" value="0.16052631578947368" />
+        <entry key="..\:/Androidstudio(3)/BBKart/app/src/main/res/drawable/banner_slider_baground.xml" value="0.20854700854700856" />
+        <entry key="..\:/Androidstudio(3)/BBKart/app/src/main/res/drawable/border_button.xml" value="0.20854700854700856" />
+        <entry key="..\:/Androidstudio(3)/BBKart/app/src/main/res/drawable/border_button_black.xml" value="0.20854700854700856" />
+        <entry key="..\:/Androidstudio(3)/BBKart/app/src/main/res/drawable/border_button_gray.xml" value="0.20854700854700856" />
+        <entry key="..\:/Androidstudio(3)/BBKart/app/src/main/res/drawable/card_black.xml" value="0.20854700854700856" />
+        <entry key="..\:/Androidstudio(3)/BBKart/app/src/main/res/drawable/cotagory_home.xml" value="0.20854700854700856" />
+        <entry key="..\:/Androidstudio(3)/BBKart/app/src/main/res/drawable/custom_baground.xml" value="0.20854700854700856" />
+        <entry key="..\:/Androidstudio(3)/BBKart/app/src/main/res/drawable/default_dot.xml" value="0.20854700854700856" />
+        <entry key="..\:/Androidstudio(3)/BBKart/app/src/main/res/drawable/dot_selector.xml" value="0.20854700854700856" />
+        <entry key="..\:/Androidstudio(3)/BBKart/app/src/main/res/drawable/my_account.xml" value="0.20854700854700856" />
+        <entry key="..\:/Androidstudio(3)/BBKart/app/src/main/res/drawable/my_order.xml" value="0.20854700854700856" />
+        <entry key="..\:/Androidstudio(3)/BBKart/app/src/main/res/drawable/reward_gradient_baground.xml" value="0.20854700854700856" />
+        <entry key="..\:/Androidstudio(3)/BBKart/app/src/main/res/drawable/selected_dot.xml" value="0.20854700854700856" />
+        <entry key="..\:/Androidstudio(3)/BBKart/app/src/main/res/layout/activity_add_address.xml" value="0.1952991452991453" />
+        <entry key="..\:/Androidstudio(3)/BBKart/app/src/main/res/layout/activity_category.xml" value="0.1952991452991453" />
+        <entry key="..\:/Androidstudio(3)/BBKart/app/src/main/res/layout/activity_delivery.xml" value="0.176" />
+        <entry key="..\:/Androidstudio(3)/BBKart/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Androidstudio(3)/BBKart/app/src/main/res/layout/activity_my_address.xml" value="0.1952991452991453" />
+        <entry key="..\:/Androidstudio(3)/BBKart/app/src/main/res/layout/activity_notification.xml" value="0.1928270042194093" />
+        <entry key="..\:/Androidstudio(3)/BBKart/app/src/main/res/layout/activity_order_details.xml" value="0.2" />
+        <entry key="..\:/Androidstudio(3)/BBKart/app/src/main/res/layout/activity_otp_verification.xml" value="0.2" />
+        <entry key="..\:/Androidstudio(3)/BBKart/app/src/main/res/layout/activity_product_details.xml" value="0.1952991452991453" />
+        <entry key="..\:/Androidstudio(3)/BBKart/app/src/main/res/layout/activity_registration.xml" value="0.1952991452991453" />
+        <entry key="..\:/Androidstudio(3)/BBKart/app/src/main/res/layout/activity_search.xml" value="0.264" />
+        <entry key="..\:/Androidstudio(3)/BBKart/app/src/main/res/layout/activity_splash.xml" value="0.2" />
+        <entry key="..\:/Androidstudio(3)/BBKart/app/src/main/res/layout/activity_update_user.xml" value="0.264" />
+        <entry key="..\:/Androidstudio(3)/BBKart/app/src/main/res/layout/activity_view_all.xml" value="0.18376068376068377" />
+        <entry key="..\:/Androidstudio(3)/BBKart/app/src/main/res/layout/address_item_layout.xml" value="0.264" />
+        <entry key="..\:/Androidstudio(3)/BBKart/app/src/main/res/layout/badge_layout.xml" value="0.176" />
+        <entry key="..\:/Androidstudio(3)/BBKart/app/src/main/res/layout/banner_slider_layout.xml" value="0.1952991452991453" />
+        <entry key="..\:/Androidstudio(3)/BBKart/app/src/main/res/layout/cart_total_amount_layout.xml" value="0.4" />
+        <entry key="..\:/Androidstudio(3)/BBKart/app/src/main/res/layout/catagory_item.xml" value="0.536" />
+        <entry key="..\:/Androidstudio(3)/BBKart/app/src/main/res/layout/content_main.xml" value="0.1952991452991453" />
+        <entry key="..\:/Androidstudio(3)/BBKart/app/src/main/res/layout/coupen_redeemption_dialog.xml" value="0.264" />
+        <entry key="..\:/Androidstudio(3)/BBKart/app/src/main/res/layout/fake_layout_home.xml" value="0.16799999999999998" />
+        <entry key="..\:/Androidstudio(3)/BBKart/app/src/main/res/layout/fragment_home.xml" value="0.144" />
+        <entry key="..\:/Androidstudio(3)/BBKart/app/src/main/res/layout/fragment_my_account.xml" value="0.2" />
+        <entry key="..\:/Androidstudio(3)/BBKart/app/src/main/res/layout/fragment_my_cart.xml" value="0.144" />
+        <entry key="..\:/Androidstudio(3)/BBKart/app/src/main/res/layout/fragment_my_order.xml" value="0.1952991452991453" />
+        <entry key="..\:/Androidstudio(3)/BBKart/app/src/main/res/layout/fragment_my_reward.xml" value="0.1952991452991453" />
+        <entry key="..\:/Androidstudio(3)/BBKart/app/src/main/res/layout/fragment_order_details.xml" value="0.1952991452991453" />
+        <entry key="..\:/Androidstudio(3)/BBKart/app/src/main/res/layout/fragment_password.xml" value="0.1952991452991453" />
+        <entry key="..\:/Androidstudio(3)/BBKart/app/src/main/res/layout/fragment_password_reset__fregment.xml" value="0.2" />
+        <entry key="..\:/Androidstudio(3)/BBKart/app/src/main/res/layout/fragment_product_description.xml" value="0.176" />
+        <entry key="..\:/Androidstudio(3)/BBKart/app/src/main/res/layout/fragment_product_specification.xml" value="0.18376068376068377" />
+        <entry key="..\:/Androidstudio(3)/BBKart/app/src/main/res/layout/fragment_signiin_fregment.xml" value="0.2" />
+        <entry key="..\:/Androidstudio(3)/BBKart/app/src/main/res/layout/fragment_signup_report.xml" value="0.1952991452991453" />
+        <entry key="..\:/Androidstudio(3)/BBKart/app/src/main/res/layout/fragment_slideshow.xml" value="0.1952991452991453" />
+        <entry key="..\:/Androidstudio(3)/BBKart/app/src/main/res/layout/fragment_user_info.xml" value="0.2" />
+        <entry key="..\:/Androidstudio(3)/BBKart/app/src/main/res/layout/fragment_wishlist.xml" value="0.1952991452991453" />
+        <entry key="..\:/Androidstudio(3)/BBKart/app/src/main/res/layout/grid_view_item_layout.xml" value="0.1952991452991453" />
+        <entry key="..\:/Androidstudio(3)/BBKart/app/src/main/res/layout/grid_view_layout.xml" value="0.2" />
+        <entry key="..\:/Androidstudio(3)/BBKart/app/src/main/res/layout/horizontal_scroll_item_layout.xml" value="0.2" />
+        <entry key="..\:/Androidstudio(3)/BBKart/app/src/main/res/layout/horizontal_scroll_layout.xml" value="0.264" />
+        <entry key="..\:/Androidstudio(3)/BBKart/app/src/main/res/layout/loading_progress_dialog.xml" value="0.15032894736842106" />
+        <entry key="..\:/Androidstudio(3)/BBKart/app/src/main/res/layout/mini_my_reward_item_layout.xml" value="0.4" />
+        <entry key="..\:/Androidstudio(3)/BBKart/app/src/main/res/layout/mini_reward_with_product_layout.xml" value="0.1952991452991453" />
+        <entry key="..\:/Androidstudio(3)/BBKart/app/src/main/res/layout/my_addresses_layout.xml" value="0.4" />
+        <entry key="..\:/Androidstudio(3)/BBKart/app/src/main/res/layout/my_cart_layout.xml" value="0.4" />
+        <entry key="..\:/Androidstudio(3)/BBKart/app/src/main/res/layout/my_order_item_layout.xml" value="0.264" />
+        <entry key="..\:/Androidstudio(3)/BBKart/app/src/main/res/layout/my_reward_item_layout.xml" value="0.4" />
+        <entry key="..\:/Androidstudio(3)/BBKart/app/src/main/res/layout/nav_header.xml" value="0.2" />
+        <entry key="..\:/Androidstudio(3)/BBKart/app/src/main/res/layout/notification_item_layout.xml" value="0.1928270042194093" />
+        <entry key="..\:/Androidstudio(3)/BBKart/app/src/main/res/layout/order_canceled_layout.xml" value="0.4" />
+        <entry key="..\:/Androidstudio(3)/BBKart/app/src/main/res/layout/order_details_layout.xml" value="0.264" />
+        <entry key="..\:/Androidstudio(3)/BBKart/app/src/main/res/layout/order_status_layout.xml" value="0.264" />
+        <entry key="..\:/Androidstudio(3)/BBKart/app/src/main/res/layout/password_conformation_dialog.xml" value="0.4" />
+        <entry key="..\:/Androidstudio(3)/BBKart/app/src/main/res/layout/payment_method_layout.xml" value="0.2" />
+        <entry key="..\:/Androidstudio(3)/BBKart/app/src/main/res/layout/product_description_layout.xml" value="0.2" />
+        <entry key="..\:/Androidstudio(3)/BBKart/app/src/main/res/layout/product_details_only_layout.xml" value="0.1952991452991453" />
+        <entry key="..\:/Androidstudio(3)/BBKart/app/src/main/res/layout/product_images.xml" value="0.264" />
+        <entry key="..\:/Androidstudio(3)/BBKart/app/src/main/res/layout/product_specification_single_layout.xml" value="0.264" />
+        <entry key="..\:/Androidstudio(3)/BBKart/app/src/main/res/layout/profile_data_layout.xml" value="0.264" />
+        <entry key="..\:/Androidstudio(3)/BBKart/app/src/main/res/layout/quantity_dialog.xml" value="0.1952991452991453" />
+        <entry key="..\:/Androidstudio(3)/BBKart/app/src/main/res/layout/ratings_layout.xml" value="0.4" />
+        <entry key="..\:/Androidstudio(3)/BBKart/app/src/main/res/layout/reward_with_product_layout.xml" value="0.4" />
+        <entry key="..\:/Androidstudio(3)/BBKart/app/src/main/res/layout/shipping_details_layout.xml" value="0.2" />
+        <entry key="..\:/Androidstudio(3)/BBKart/app/src/main/res/layout/sign_in_dialog.xml" value="0.4" />
+        <entry key="..\:/Androidstudio(3)/BBKart/app/src/main/res/layout/sliding_banner_layout.xml" value="0.1952991452991453" />
+        <entry key="..\:/Androidstudio(3)/BBKart/app/src/main/res/layout/strip_add_layout.xml" value="0.1952991452991453" />
+        <entry key="..\:/Androidstudio(3)/BBKart/app/src/main/res/layout/wishlist_item_layout.xml" value="0.4" />
+        <entry key="..\:/Androidstudio(3)/BBKart/app/src/main/res/layout/your_recent_order_layout.xml" value="0.264" />
+        <entry key="..\:/Androidstudio(3)/BBKart/app/src/main/res/menu/activity_main_drawer.xml" value="0.4" />
+        <entry key="..\:/Androidstudio(3)/BBKart/app/src/main/res/menu/main.xml" value="0.1952991452991453" />
+        <entry key="..\:/Androidstudio(3)/BBKart/app/src/main/res/menu/nav_icon.xml" value="0.1952991452991453" />
+        <entry key="..\:/Androidstudio(3)/BBKart/app/src/main/res/menu/search_card.xml" value="0.1952991452991453" />
+        <entry key="..\:/Androidstudio(3)/BBKart/app/src/main/res/menu/search_menu.xml" value="0.1952991452991453" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" project-jdk-name="jbr-17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "344651971992",
+    "project_id": "tot-shopping",
+    "storage_bucket": "tot-shopping.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:344651971992:android:6f02c0da7ac2d7ad9e7fed",
+        "android_client_info": {
+          "package_name": "com.example.totshopping"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "344651971992-97fcppkkmqg27ks0f7rfee54gigl93ce.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAssMPmoXz-s3wsQIONAgo_yAaHQIbaOhE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "344651971992-97fcppkkmqg27ks0f7rfee54gigl93ce.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
